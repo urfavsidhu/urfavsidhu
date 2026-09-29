@@ -122,7 +122,6 @@ Currently a student, so no professional experience yet. I'm actively building pr
 [![github](https://img.shields.io/badge/github-urfavsidhu-181717?style=flat&logo=github&logoColor=white)](https://github.com/urfavsidhu)
 [![x](https://img.shields.io/badge/x-%40sidhart46362858-000000?style=flat&logo=x&logoColor=white)](https://x.com/Sidhart46362858)
 [![instagram](https://img.shields.io/badge/instagram-urfav__sidhuu-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/urfav_sidhuu)
-[![Instagram](https://img.shields.io/badge/Instagram-urfav__sidhuu-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/urfav_sidhuu)
 
 </div>
 
