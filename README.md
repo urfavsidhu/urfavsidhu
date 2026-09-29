@@ -7,11 +7,6 @@
 </a>
 
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=urfavsidhu&label=Profile%20Views&color=24c6dc&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/urfavsidhu?style=for-the-badge&logo=github&color=302b63" />
-<img src="https://img.shields.io/github/stars/urfavsidhu?style=for-the-badge&logo=github&color=24c6dc" />
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,100:302b63&height=60&section=footer&animation=blinking" width="100%" />
@@ -122,10 +117,11 @@ Currently a student, so no professional experience yet. I'm actively building pr
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=500&color=24C6DC&center=true&vCenter=true&width=500&lines=%F0%9F%93%AB+Let's+Connect" />
   <br/>
 
-[![Email](https://img.shields.io/badge/Email-bcasidharth%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bcasidharth@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sidharth%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidharth-sharma-043257433)
-[![GitHub](https://img.shields.io/badge/GitHub-urfavsidhu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/urfavsidhu)
-[![X](https://img.shields.io/badge/X-@Sidhart46362858-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Sidhart46362858)
+[![email](https://img.shields.io/badge/email-bcasidharth%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:bcasidharth@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-sidharth%20sharma-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidharth-sharma-043257433)
+[![github](https://img.shields.io/badge/github-urfavsidhu-181717?style=flat&logo=github&logoColor=white)](https://github.com/urfavsidhu)
+[![x](https://img.shields.io/badge/x-%40sidhart46362858-000000?style=flat&logo=x&logoColor=white)](https://x.com/Sidhart46362858)
+[![instagram](https://img.shields.io/badge/instagram-urfav__sidhuu-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/urfav_sidhuu)
 [![Instagram](https://img.shields.io/badge/Instagram-urfav__sidhuu-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/urfav_sidhuu)
 
 </div>
