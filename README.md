@@ -1,4 +1,4 @@
-<!-- Upload assets/profile-banner.svg alongside this README. -->
+<!-- Visual assets live in assets/. Keep them alongside this README. -->
 
 <div align="center">
 
@@ -16,7 +16,7 @@ Small ideas. Useful products. A little better every day.
 
 ---
 
-### A little about me
+### 👋 A little about me
 
 I'm **Sidharth**, a second-year BCA student who learns by building. I enjoy taking everyday problems and turning them into web experiences that feel simple to use—from navigating a zoo to keeping a daily habit going.
 
@@ -32,38 +32,36 @@ I'm strengthening my programming fundamentals, exploring the full stack, and loo
 
 ## Selected work
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🧭 Smart Zoo Navigator
 
-<h3>01 &nbsp; Smart Zoo Navigator</h3>
-<p><strong>Find your way. Enjoy the visit.</strong></p>
-<p>A web app that helps visitors pick a zoo and explore its animals, paths and facilities through an interactive map.</p>
-<ul>
-  <li>Zoo selection as the starting point</li>
-  <li>Interactive map and simple navigation</li>
-  <li>Mobile-friendly layout with bottom navigation</li>
-</ul>
-<p><a href="https://myzoo-navigator.vercel.app"><strong>Open live demo ↗</strong></a> &nbsp; · &nbsp; <a href="https://github.com/urfavsidhu/myzoo-navigator">View source</a></p>
-<p><sub>WEB APP &nbsp; / &nbsp; NAVIGATION &nbsp; / &nbsp; VERCEL</sub></p>
+<p align="center">
+  <a href="https://myzoo-navigator.vercel.app"><img src="assets/project-zoo.svg" width="620" alt="Smart Zoo Navigator — illustrated map and navigation route" /></a>
+</p>
 
-</td>
-<td width="50%" valign="top">
+**Find your way. Enjoy the visit.** A web app that helps visitors pick a zoo and explore its animals, paths and facilities through an interactive map.
 
-<h3>02 &nbsp; Daily Habit Tracker</h3>
-<p><strong>Small steps. Steady progress.</strong></p>
-<p>A simple habit tracking app for building a daily routine, marking habits complete and keeping a streak going.</p>
-<ul>
-  <li>Daily habits in one place</li>
-  <li>Clear, distraction-free interface</li>
-  <li>Works on mobile and desktop</li>
-</ul>
-<p><a href="https://daily-habit-tracker-teal-three.vercel.app"><strong>Open live demo ↗</strong></a></p>
-<p><sub>WEB APP &nbsp; / &nbsp; PRODUCTIVITY &nbsp; / &nbsp; VERCEL</sub></p>
+- Zoo selection as the starting point
+- Interactive map and simple navigation
+- Mobile-friendly layout with bottom navigation
 
-</td>
-</tr>
-</table>
+**[Open live demo ↗](https://myzoo-navigator.vercel.app)** &nbsp; · &nbsp; [View source](https://github.com/urfavsidhu/myzoo-navigator)
+
+<br />
+
+### ✨ Daily Habit Tracker
+
+<p align="center">
+  <a href="https://daily-habit-tracker-teal-three.vercel.app"><img src="assets/project-habits.svg" width="620" alt="Daily Habit Tracker — illustrated checklist and progress indicator" /></a>
+</p>
+
+**Small steps. Steady progress.** A simple habit tracking app for building a daily routine, marking habits complete and keeping a streak going.
+
+- Daily habits in one place
+- Clear, distraction-free interface
+- Works on mobile and desktop
+
+**[Open live demo ↗](https://daily-habit-tracker-teal-three.vercel.app)**
+
 
 <p align="center">
   <a href="https://github.com/urfavsidhu?tab=repositories"><strong>Explore all repositories →</strong></a>
@@ -75,6 +73,8 @@ I'm strengthening my programming fundamentals, exploring the full stack, and loo
 
 The tools I'm learning and using as I build.
 
+<img src="assets/toolkit.svg" width="100%" alt="C, C++, Python, JavaScript, HTML, CSS, Git, GitHub, Visual Studio Code and Vercel" />
+
 | Area | Technologies |
 | :--- | :--- |
 | **Programming** | C · C++ · Python · JavaScript |
@@ -84,7 +84,7 @@ The tools I'm learning and using as I build.
 
 <br />
 
-## What I'm working toward
+## 🎯 What I'm working toward
 
 - [x] Launch my first live projects
 - [ ] Complete 100 Days of Code
@@ -94,7 +94,7 @@ The tools I'm learning and using as I build.
 
 <br />
 
-## One contribution at a time
+## 🐍 One contribution at a time
 
 <p>Learning, building and showing up consistently.</p>
 
@@ -112,11 +112,13 @@ The tools I'm learning and using as I build.
 
 Have an internship opportunity, a project idea, or something I can learn from? I'd love to hear from you.
 
-**[Email](mailto:bcasidharth@gmail.com)** &nbsp; / &nbsp;
-**[LinkedIn](https://www.linkedin.com/in/sidharth-sharma-043257433)** &nbsp; / &nbsp;
-**[GitHub](https://github.com/urfavsidhu)** &nbsp; / &nbsp;
-**[X](https://x.com/Sidhart46362858)** &nbsp; / &nbsp;
-**[Instagram](https://instagram.com/urfav_sidhuu)**
+<p align="center">
+  <a href="mailto:bcasidharth@gmail.com"><img src="assets/contact-email.svg" height="40" alt="Email Sidharth" /></a>
+  <a href="https://www.linkedin.com/in/sidharth-sharma-043257433"><img src="assets/contact-linkedin.svg" height="40" alt="Connect on LinkedIn" /></a>
+  <a href="https://github.com/urfavsidhu"><img src="assets/contact-github.svg" height="40" alt="Explore GitHub" /></a>
+  <a href="https://x.com/Sidhart46362858"><img src="assets/contact-x.svg" height="40" alt="Follow on X" /></a>
+  <a href="https://instagram.com/urfav_sidhuu"><img src="assets/contact-instagram.svg" height="40" alt="Follow on Instagram" /></a>
+</p>
 
 ---
 

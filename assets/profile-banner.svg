@@ -3,15 +3,16 @@
   <desc id="description">Building useful things for the web. A navy, cyan and violet profile banner for a BCA student at PSIT, Kanpur, graduating in 2028.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#0b1020"/>
-      <stop offset="1" stop-color="#111b30"/>
+      <stop stop-color="#11112b"/>
+      <stop offset=".55" stop-color="#12243b"/><stop offset="1" stop-color="#271448"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
       <stop stop-color="#67e8f9"/>
       <stop offset="1" stop-color="#a78bfa"/>
     </linearGradient>
+    <radialGradient id="cyan"><stop stop-color="#06b6d4" stop-opacity=".25"/><stop offset="1" stop-color="#06b6d4" stop-opacity="0"/></radialGradient>
     <radialGradient id="glow">
-      <stop stop-color="#6366f1" stop-opacity=".23"/>
+      <stop stop-color="#6366f1" stop-opacity=".60"/>
       <stop offset="1" stop-color="#6366f1" stop-opacity="0"/>
     </radialGradient>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
@@ -20,10 +21,12 @@
   </defs>
   <rect x="1" y="1" width="1278" height="398" rx="24" fill="url(#background)" stroke="#26334c"/>
   <rect x="1" y="1" width="1278" height="398" rx="24" fill="url(#grid)"/>
+  <ellipse cx="370" cy="50" rx="480" ry="340" fill="url(#cyan)"/>
   <ellipse cx="1020" cy="200" rx="300" ry="240" fill="url(#glow)"/>
+  <path d="M 24 2 H 1256" stroke="url(#accent)" stroke-width="3" opacity=".8"/>
   <rect x="56" y="54" width="28" height="3" rx="1.5" fill="url(#accent)"/>
   <text x="97" y="61" fill="#a5b4cb" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="3">URFAVSIDHU / BUILDER IN PROGRESS</text>
-  <text x="54" y="166" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" letter-spacing="-2">Sidharth Sharma<tspan fill="#67e8f9">.</tspan></text>
+  <text x="54" y="166" fill="url(#accent)" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" letter-spacing="-2">Sidharth Sharma<tspan fill="#67e8f9">.</tspan></text>
   <text x="57" y="209" fill="#b8c6db" font-family="Arial, Helvetica, sans-serif" font-size="24">Building useful things for the web.</text>
   <rect x="57" y="240" width="122" height="3" rx="1.5" fill="url(#accent)"/>
   <text x="57" y="291" fill="#a5b4cb" font-family="Arial, Helvetica, sans-serif" font-size="16">BCA @ PSIT, Kanpur <tspan fill="#536680"> / </tspan> Class of 2028</text>

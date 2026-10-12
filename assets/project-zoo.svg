@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="310" viewBox="0 0 600 310" role="img" aria-labelledby="title desc">
+<title id="title">Smart Zoo Navigator</title><desc id="desc">Decorative map illustration with a dotted route connecting three locations.</desc>
+<style>text{font-family:Arial,Helvetica,sans-serif}.eyebrow{font-size:13px;font-weight:700;letter-spacing:3px}.title{font-size:29px;font-weight:700;fill:#f8fafc}.caption{font-size:16px;fill:#cbd5e1}.chip{font-size:11px;font-weight:700;letter-spacing:1px}</style>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d3238"/><stop offset="1" stop-color="#10223a"/></linearGradient><linearGradient id="route"><stop stop-color="#5eead4"/><stop offset="1" stop-color="#38bdf8"/></linearGradient></defs>
+<rect x="1" y="1" width="598" height="308" rx="20" fill="url(#bg)" stroke="#2dd4bf" stroke-opacity=".4"/>
+<circle cx="519" cy="48" r="114" fill="#14b8a6" opacity=".08"/>
+<text class="eyebrow" x="28" y="35" fill="#5eead4">01 / EXPLORE WITH EASE</text>
+<g transform="translate(24 56)">
+<rect width="552" height="132" rx="14" fill="#071e2c" stroke="#1d5261"/>
+<path d="M 0 44 H 552 M 0 88 H 552 M 92 0 V 132 M 184 0 V 132 M 276 0 V 132 M 368 0 V 132 M 460 0 V 132" stroke="#235260" opacity=".4"/>
+<path d="M 45 93 C 135 93 125 35 210 35 S 320 93 390 65 S 452 25 506 25" fill="none" stroke="url(#route)" stroke-width="4" stroke-dasharray="7 7" stroke-linecap="round"/>
+<g fill="#0b2632" stroke="#5eead4" stroke-width="3"><circle cx="45" cy="93" r="9"/><circle cx="210" cy="35" r="9"/><circle cx="390" cy="65" r="9"/></g>
+<path d="M 506 12 C 494 12 487 22 493 32 L 506 48 L 519 32 C 525 22 518 12 506 12 Z" fill="#38bdf8"/><circle cx="506" cy="24" r="5" fill="#082f49"/>
+</g>
+<text class="title" x="28" y="229">Smart Zoo Navigator</text><text class="caption" x="28" y="256">Find your way. Enjoy the visit.</text>
+<rect x="28" y="273" width="126" height="22" rx="11" fill="#14b8a6" fill-opacity=".16"/><text class="chip" x="91" y="288" fill="#99f6e4" text-anchor="middle">NAVIGATION</text>
+<rect x="164" y="273" width="112" height="22" rx="11" fill="#38bdf8" fill-opacity=".14"/><text class="chip" x="220" y="288" fill="#bae6fd" text-anchor="middle">WEB APP</text>
+</svg>

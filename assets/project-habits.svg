@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="310" viewBox="0 0 600 310" role="img" aria-labelledby="title desc">
+<title id="title">Daily Habit Tracker</title><desc id="desc">Decorative illustration of completed daily tasks and progress bars.</desc>
+<style>text{font-family:Arial,Helvetica,sans-serif}.eyebrow{font-size:13px;font-weight:700;letter-spacing:3px}.title{font-size:29px;font-weight:700;fill:#f8fafc}.caption{font-size:16px;fill:#cbd5e1}.chip{font-size:11px;font-weight:700;letter-spacing:1px}</style>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#30204e"/><stop offset="1" stop-color="#171e39"/></linearGradient><linearGradient id="progress"><stop stop-color="#c4b5fd"/><stop offset="1" stop-color="#f9a8d4"/></linearGradient></defs>
+<rect x="1" y="1" width="598" height="308" rx="20" fill="url(#bg)" stroke="#a78bfa" stroke-opacity=".5"/>
+<circle cx="515" cy="50" r="114" fill="#a855f7" opacity=".10"/>
+<text class="eyebrow" x="28" y="35" fill="#c4b5fd">02 / SHOW UP EVERY DAY</text>
+<g transform="translate(24 56)">
+<rect width="552" height="132" rx="14" fill="#15152f" stroke="#50406c"/>
+<g fill="#a78bfa" fill-opacity=".2"><rect x="20" y="18" width="26" height="26" rx="7"/><rect x="20" y="54" width="26" height="26" rx="7"/><rect x="20" y="90" width="26" height="26" rx="7"/></g>
+<g fill="none" stroke="#c4b5fd" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M 26 30 L 32 36 L 41 25"/><path d="M 26 66 L 32 72 L 41 61"/><path d="M 26 102 L 32 108 L 41 97"/></g>
+<g fill="#34274b"><rect x="64" y="23" width="242" height="14" rx="7"/><rect x="64" y="59" width="242" height="14" rx="7"/><rect x="64" y="95" width="242" height="14" rx="7"/></g>
+<g fill="url(#progress)"><rect x="64" y="23" width="224" height="14" rx="7"/><rect x="64" y="59" width="186" height="14" rx="7"/><rect x="64" y="95" width="242" height="14" rx="7"/></g>
+<circle cx="435" cy="66" r="42" fill="none" stroke="#34274b" stroke-width="10"/><circle cx="435" cy="66" r="42" fill="none" stroke="url(#progress)" stroke-width="10" stroke-dasharray="218 264" stroke-linecap="round" transform="rotate(-90 435 66)"/>
+<path d="M 416 66 L 429 79 L 456 52" fill="none" stroke="#f9a8d4" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text class="title" x="28" y="229">Daily Habit Tracker</text><text class="caption" x="28" y="256">Small steps. Steady progress.</text>
+<rect x="28" y="273" width="138" height="22" rx="11" fill="#a78bfa" fill-opacity=".18"/><text class="chip" x="97" y="288" fill="#ddd6fe" text-anchor="middle">PRODUCTIVITY</text>
+<rect x="176" y="273" width="112" height="22" rx="11" fill="#f472b6" fill-opacity=".12"/><text class="chip" x="232" y="288" fill="#fbcfe8" text-anchor="middle">WEB APP</text>
+</svg>
